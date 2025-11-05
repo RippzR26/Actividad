@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 20px; background:#f6f8fa; color:#222; }
+header h1 { color:#0b5ed7; }
+table { border-collapse: collapse; width:100%; max-width:900px; background:white; }
+table th, table td { border:1px solid #ddd; padding:8px; text-align:left; }
+table thead { background:#0b5ed7; color:white; }
+section { margin-top:20px; }
+figure { margin:0; }
+img { max-width:300px; height:auto; border:1px solid #ccc; }
